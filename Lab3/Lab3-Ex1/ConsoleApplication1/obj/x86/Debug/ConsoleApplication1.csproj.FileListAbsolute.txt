@@ -1,0 +1,7 @@
+c:\users\mabm\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\mabm\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\mabm\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+c:\users\mabm\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\MABM\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MABM\OneDrive\Current\BU\VP-CSC-313\VP-LAB-CSL-313\Lab3\Lab3-Ex1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\MABM\OneDrive\Current\BU\VP-CSC-313\VP-LAB-CSL-313\Lab3\Lab3-Ex1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
