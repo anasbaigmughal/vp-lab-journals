@@ -1,0 +1,4 @@
+c:\users\student\documents\visual studio 2010\Projects\20sep2017t003\20sep2017t003\bin\Debug\20sep2017t003.exe
+c:\users\student\documents\visual studio 2010\Projects\20sep2017t003\20sep2017t003\bin\Debug\20sep2017t003.pdb
+c:\users\student\documents\visual studio 2010\Projects\20sep2017t003\20sep2017t003\obj\x86\Debug\20sep2017t003.exe
+c:\users\student\documents\visual studio 2010\Projects\20sep2017t003\20sep2017t003\obj\x86\Debug\20sep2017t003.pdb
