@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2010\Projects\smjConsoleApplication1\smjConsoleApplication1\bin\Debug\smjConsoleApplication1.exe
+c:\users\student\documents\visual studio 2010\Projects\smjConsoleApplication1\smjConsoleApplication1\bin\Debug\smjConsoleApplication1.pdb
+c:\users\student\documents\visual studio 2010\Projects\smjConsoleApplication1\smjConsoleApplication1\obj\x86\Debug\smjConsoleApplication1.exe
+c:\users\student\documents\visual studio 2010\Projects\smjConsoleApplication1\smjConsoleApplication1\obj\x86\Debug\smjConsoleApplication1.pdb
+C:\Users\MABM\OneDrive\Current\Active Work\smjConsoleApplication1\smjConsoleApplication1\obj\x86\Debug\smjConsoleApplication1.exe
+C:\Users\MABM\OneDrive\Current\Active Work\smjConsoleApplication1\smjConsoleApplication1\obj\x86\Debug\smjConsoleApplication1.pdb
+C:\Users\MABM\OneDrive\Current\Active Work\smjConsoleApplication1\smjConsoleApplication1\bin\Debug\smjConsoleApplication1.exe
+C:\Users\MABM\OneDrive\Current\Active Work\smjConsoleApplication1\smjConsoleApplication1\bin\Debug\smjConsoleApplication1.pdb
+C:\Users\MABM\OneDrive\Current\BU\VP-CSC-313\VP-LAB-CSL-313\Lab4\Lab4-Ex1\smjConsoleApplication1\obj\x86\Debug\smjConsoleApplication1.exe
+C:\Users\MABM\OneDrive\Current\BU\VP-CSC-313\VP-LAB-CSL-313\Lab4\Lab4-Ex1\smjConsoleApplication1\obj\x86\Debug\smjConsoleApplication1.pdb
