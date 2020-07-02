@@ -1,0 +1,22 @@
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex2\Lab6-Ex2\bin\Debug\Lab6-Ex2.exe
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex2\Lab6-Ex2\bin\Debug\Lab6-Ex2.pdb
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6_Ex2.Form1.resources
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6_Ex2.Properties.Resources.resources
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6-Ex2.csproj.GenerateResource.Cache
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6-Ex2.exe
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6-Ex2.pdb
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex2\Lab6-Ex2\bin\Debug\Lab6-Ex2.exe.manifest
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex2\Lab6-Ex2\bin\Debug\Lab6-Ex2.application
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6-Ex2.exe.manifest
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6-Ex2.application
+C:\Users\MABM\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab6\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6-Ex2.exe
+C:\Users\MABM\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab6\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6-Ex2.pdb
+C:\Users\MABM\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab6\Lab6-Ex2\Lab6-Ex2\bin\Debug\Lab6-Ex2.exe.manifest
+C:\Users\MABM\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab6\Lab6-Ex2\Lab6-Ex2\bin\Debug\Lab6-Ex2.application
+C:\Users\MABM\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab6\Lab6-Ex2\Lab6-Ex2\bin\Debug\Lab6-Ex2.exe
+C:\Users\MABM\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab6\Lab6-Ex2\Lab6-Ex2\bin\Debug\Lab6-Ex2.pdb
+C:\Users\MABM\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab6\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6_Ex2.Form1.resources
+C:\Users\MABM\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab6\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6_Ex2.Properties.Resources.resources
+C:\Users\MABM\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab6\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6-Ex2.csproj.GenerateResource.Cache
+C:\Users\MABM\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab6\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6-Ex2.exe.manifest
+C:\Users\MABM\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab6\Lab6-Ex2\Lab6-Ex2\obj\x86\Debug\Lab6-Ex2.application
