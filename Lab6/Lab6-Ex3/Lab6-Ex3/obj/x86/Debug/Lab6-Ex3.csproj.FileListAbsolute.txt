@@ -1,0 +1,11 @@
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex3\Lab6-Ex3\bin\Debug\Lab6-Ex3.exe
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex3\Lab6-Ex3\bin\Debug\Lab6-Ex3.pdb
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex3\Lab6-Ex3\obj\x86\Debug\Lab6_Ex3.Form1.resources
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex3\Lab6-Ex3\obj\x86\Debug\Lab6_Ex3.Properties.Resources.resources
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex3\Lab6-Ex3\obj\x86\Debug\Lab6-Ex3.csproj.GenerateResource.Cache
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex3\Lab6-Ex3\obj\x86\Debug\Lab6-Ex3.exe
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex3\Lab6-Ex3\obj\x86\Debug\Lab6-Ex3.pdb
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex3\Lab6-Ex3\bin\Debug\Lab6-Ex3.exe.manifest
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex3\Lab6-Ex3\bin\Debug\Lab6-Ex3.application
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex3\Lab6-Ex3\obj\x86\Debug\Lab6-Ex3.exe.manifest
+c:\users\mabm\documents\visual studio 2010\Projects\Lab6-Ex3\Lab6-Ex3\obj\x86\Debug\Lab6-Ex3.application
