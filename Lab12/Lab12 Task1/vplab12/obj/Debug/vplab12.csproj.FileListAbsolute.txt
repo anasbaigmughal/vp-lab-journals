@@ -1,0 +1,12 @@
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\vplab12\vplab12\bin\Debug\vplab12.exe.config
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\vplab12\vplab12\obj\Debug\vplab12.csprojResolveAssemblyReference.cache
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\vplab12\vplab12\obj\Debug\vplab12.Form1.resources
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\vplab12\vplab12\obj\Debug\vplab12.Properties.Resources.resources
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\vplab12\vplab12\obj\Debug\vplab12.csproj.GenerateResource.Cache
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\vplab12\vplab12\bin\Debug\vplab12.exe
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\vplab12\vplab12\bin\Debug\vplab12.pdb
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\vplab12\vplab12\obj\Debug\vplab12.exe
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\vplab12\vplab12\obj\Debug\vplab12.pdb
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task1\vplab12\bin\Debug\vplab12.exe.config
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task1\vplab12\obj\Debug\vplab12.exe
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task1\vplab12\obj\Debug\vplab12.pdb
