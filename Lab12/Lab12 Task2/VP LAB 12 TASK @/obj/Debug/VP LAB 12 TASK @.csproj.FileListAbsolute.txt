@@ -1,0 +1,18 @@
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\VP LAB 12 TASK @\VP LAB 12 TASK @\bin\Debug\VP LAB 12 TASK @.exe.config
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\VP LAB 12 TASK @\VP LAB 12 TASK @\obj\Debug\VP LAB 12 TASK @.csprojResolveAssemblyReference.cache
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\VP LAB 12 TASK @\VP LAB 12 TASK @\obj\Debug\VP_LAB_12_TASK__.Form1.resources
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\VP LAB 12 TASK @\VP LAB 12 TASK @\obj\Debug\VP_LAB_12_TASK__.Properties.Resources.resources
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\VP LAB 12 TASK @\VP LAB 12 TASK @\obj\Debug\VP LAB 12 TASK @.csproj.GenerateResource.Cache
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\VP LAB 12 TASK @\VP LAB 12 TASK @\bin\Debug\VP LAB 12 TASK @.exe
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\VP LAB 12 TASK @\VP LAB 12 TASK @\bin\Debug\VP LAB 12 TASK @.pdb
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\VP LAB 12 TASK @\VP LAB 12 TASK @\obj\Debug\VP LAB 12 TASK @.exe
+c:\users\muhammad anas baig\documents\visual studio 2015\Projects\VP LAB 12 TASK @\VP LAB 12 TASK @\obj\Debug\VP LAB 12 TASK @.pdb
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task2\VP LAB 12 TASK @\bin\Debug\VP LAB 12 TASK @.exe.config
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task2\VP LAB 12 TASK @\obj\Debug\VP LAB 12 TASK @.exe
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task2\VP LAB 12 TASK @\obj\Debug\VP LAB 12 TASK @.pdb
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task2\VP LAB 12 TASK @\bin\Debug\VP LAB 12 TASK @.exe
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task2\VP LAB 12 TASK @\bin\Debug\VP LAB 12 TASK @.pdb
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task2\VP LAB 12 TASK @\obj\Debug\VP LAB 12 TASK @.csprojResolveAssemblyReference.cache
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task2\VP LAB 12 TASK @\obj\Debug\VP_LAB_12_TASK__.Form1.resources
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task2\VP LAB 12 TASK @\obj\Debug\VP_LAB_12_TASK__.Properties.Resources.resources
+E:\OneDrive\Current\Config\VP-CSC-313\VP-LAB-CSL-313\Lab12\Lab12 Task2\VP LAB 12 TASK @\obj\Debug\VP LAB 12 TASK @.csproj.GenerateResource.Cache
